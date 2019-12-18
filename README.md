@@ -1,9 +1,10 @@
 # imu-headset-repo
 ergonomic and efficient cursor control with AHRS / IMU
-# DESCRIPTION
+https://hackaday.io/project/161560-imu-based-hmi-headset
+# Description
 The mouse as a HMI to the PC is annoying me: You always have to change the position of your hand from the keyboard to the mouse and maybe move it to find where the cursor currently is - this slows down my working speed and is "only" annoying. More important, after x hours of intensive work with the mouse you feel that your arm does not like it and it can lead to CTD, RSI syndrom etc..
 This headset uses your head's orientation as HMI input so your hands can stay on the keyboard and you can control the cursor at the same time!
-# DETAILS
+# Details
 There are alternatives to the normal mouse, e.g. the gyro mouse (cheap, but blocks one hand), the roller mouse / bar mouse (very expensive, but comes very close to what I want) or the trackball (very close to what I want, but way too hard to control the cursor because of the limited movement range / sensibility).
 
 The objective of this project is to develop a headset, which may include microphone and earphone and a sensor to read the orientation (e.g. gyroscope, or gyro + accelerometer + magnetometer). The coursor should be controlled by moving the head up/down and left/right. There are different approaches to realize the click buttons etc..
