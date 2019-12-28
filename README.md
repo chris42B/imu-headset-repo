@@ -2,6 +2,8 @@
 ergonomic and efficient cursor control with AHRS / IMU
 
 https://hackaday.io/project/161560-imu-based-hmi-headset
+
+![alt text](docu/Photo-by-picjumbo.com-from-Pexels.jpg "design example")
 # Description
 The mouse as a HMI to the PC is annoying me: You always have to change the position of your hand from the keyboard to the mouse and maybe move it to find where the cursor currently is - this slows down my working speed and is "only" annoying. More important, after x hours of intensive work with the mouse you feel that your arm does not like it and it can lead to CTD, RSI syndrom etc..
 This headset uses your head's orientation as HMI input so your hands can stay on the keyboard and you can control the cursor at the same time!
