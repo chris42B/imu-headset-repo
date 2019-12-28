@@ -19,15 +19,19 @@ Teensy + Prop Shield --> 40 $, but easy to come to a first working prototype qui
 to adapt the results for cheaper parts, e.g. Arduino Micro + MPU 9250 breakout board
 ### 3rd
 custom PCB with smaller form factor (for easy wearing) based on previous results
-## lick-by-keyboard prototype
+## click-by-keyboard prototype
 ### 1st
 Autohotkey script for using keyboard shortcuts to make left-/rightclicks
 ### 2nd
 should fix the bug when e.g. selecting multiple files via rectangle
 
 ## audio+click board prototype
+extension board between IMU board and PC to 
+1. integrate the micro- and headphone signals to the pointing device signals so there is only one USB cable for both
+2. create left- and rightclick signals when the user puffs or whistles into the microphone 
 
 ## finger-ring IMU board prototype
+alternative device to the standard IMU board which is worn e.g. on your thumb instead of on your head and thus this device has to have another form factor
 
 # Roadmap
 currently todo: 
